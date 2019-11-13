@@ -5,3 +5,15 @@ Notable Git Commands:
 		Example:
 			git clone https://github.com/michaeldey/toolbox.git
 
+
+	Create a new branch:
+		git branch <branch name>
+		Example:
+			git branch dev
+
+	Checkout a branch:
+		git checkout <branch name>
+		Example:
+			git checkout dev
+
+	
