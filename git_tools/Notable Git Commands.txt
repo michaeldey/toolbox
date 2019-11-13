@@ -47,6 +47,18 @@ Notable Git Commands:
 	see status of current git branch
 		git status
 
+	see git log
+		git log
+	compact version
+		git log --oneline
+	most recent commit
+		git log -n 1
+	most recent commit on a specific branch
+		git log -n 1 <branch name>
+	most recent commit hash
+		git log -n 1 --pretty=format:"%H"
+		
+
 	merge branch into another branch
 		checkout the branch you want to merge into
 		merge the branch
@@ -56,3 +68,6 @@ Notable Git Commands:
 			git merge dev
 			git push
 	
+	revert
+		git revert <hash>
+
