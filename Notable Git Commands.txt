@@ -46,3 +46,13 @@ Notable Git Commands:
 
 	see status of current git branch
 		git status
+
+	merge branch into another branch
+		checkout the branch you want to merge into
+		merge the branch
+		push the branch to remote repo
+		Example:
+			git checkout master
+			git merge dev
+			git push
+	
