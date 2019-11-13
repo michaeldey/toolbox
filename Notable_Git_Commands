@@ -1,0 +1,7 @@
+Notable Git Commands:
+
+	Clone a remote repository:
+		git clone <repository name>
+		Example:
+			git clone https://github.com/michaeldey/toolbox.git
+
