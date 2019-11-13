@@ -1,0 +1,48 @@
+Notable Git Commands:
+
+	Clone a remote repository:
+		git clone <repository name>
+		Example:
+			git clone https://github.com/michaeldey/toolbox.git
+
+
+	Create a new branch:
+		git branch <branch name>
+		Example:
+			git branch dev
+
+
+	Checkout a branch:
+		git checkout <branch name>
+		Example:
+			git checkout dev
+
+
+	Push and connect the branch to the remote repository
+		git push --set-upstream origin <branch name>
+		Example:
+			git push --set-upstream origin dev
+
+
+	Add a file to local staging environment
+		git add <file name>
+		Example:
+			git add Notable_Git_Commands.txt
+
+
+	Add all changed files to local staging environment
+		git add -A
+
+
+	Make a commit to the local staging environment
+		git commit -m "this is my commit message"
+
+
+	push a commit to the remote repository
+		git push
+
+	delete a file and have GIT see it
+		git rm <filename>
+
+	see status of current git branch
+		git status
