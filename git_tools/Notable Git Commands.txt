@@ -71,3 +71,17 @@ Notable Git Commands:
 	revert
 		git revert <hash>
 
+	see most recent commit hash:
+		git log -n1 --format=format:"%H"
+
+
+	M2 Git Commands (in order):
+		git checkout integration						# from gitlab
+		git pull
+		git merge -no-ff feature/whatever
+		git push 										# to gitlab
+		git checkout staging
+		git pull
+		git merge --no-ff integration
+		git push origin staging 						# to gitlab (origin remote)
+		git push cloud staging 							# to Magento cloud remote

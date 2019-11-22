@@ -1,0 +1,136 @@
+1574102042657	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6z/lp9gfmtj5n1f1y9qkngwlrd4vyfs5x/T/rust_mozprofile.UnMdJeth06n8"
+1574102043582	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574102043582	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574102043582	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574102043583	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574102045706	Marionette	INFO	Listening on port 56110
+1574102045808	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574102056177	Marionette	INFO	Stopped listening on port 56110
+1574102152233	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6z/lp9gfmtj5n1f1y9qkngwlrd4vyfs5x/T/rust_mozprofile.lN950pT2qL1j"
+1574102152678	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574102152678	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574102152678	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574102152678	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574102154169	Marionette	INFO	Listening on port 56288
+1574102154179	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574102164347	Marionette	INFO	Stopped listening on port 56288
+1574102224554	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6z/lp9gfmtj5n1f1y9qkngwlrd4vyfs5x/T/rust_mozprofile.HZ0fV398JYtw"
+1574102224995	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574102224995	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574102224995	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574102224995	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574102226446	Marionette	INFO	Listening on port 56434
+1574102226491	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/modal/modal
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: knockoutjs/knockout-es5
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: Amasty_Customform/js/form-render
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/bootstrap
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: knockoutjs/knockout
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/extender/bound-nodes
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: mage/collapsible
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/extender/observable_array
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/template/engine
+http://requirejs.org/docs/errors.html#scripterror
+1574102369985	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6z/lp9gfmtj5n1f1y9qkngwlrd4vyfs5x/T/rust_mozprofile.u62R2PPkNFww"
+1574102370570	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574102370570	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574102370570	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574102370570	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574102372120	Marionette	INFO	Listening on port 56634
+1574102372125	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: jquery/jquery-migrate
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: mage/common
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: jquery/jquery-storageapi
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: mage/apply/scripts
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/template/engine
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/bootstrap
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/extender/observable_array
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/extender/bound-nodes
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: jquery/ui
+http://requirejs.org/docs/errors.html#scripterror
+1574102393139	Marionette	INFO	Stopped listening on port 56634
+1574102395306	Marionette	INFO	Stopped listening on port 56434
+1574102587384	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6z/lp9gfmtj5n1f1y9qkngwlrd4vyfs5x/T/rust_mozprofile.e7HA5EFasIps"
+1574102587994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574102587994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574102587995	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574102587995	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574102589525	Marionette	INFO	Listening on port 56846
+1574102589537	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: jquery/patches/jquery-ui
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: mage/smart-keyboard-handler
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: matchMedia
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: mage/mage
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: mage/ie-class-fixer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: Amasty_Customform/js/form-render
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/modal/modal
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/extender/bound-nodes
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/extender/observable_array
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/bootstrap
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: mage/collapsible
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: knockoutjs/knockout-es5
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/template/engine
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: knockoutjs/knockout
+http://requirejs.org/docs/errors.html#scripterror
+1574102652587	Marionette	INFO	Stopped listening on port 56846
+1574102659618	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6z/lp9gfmtj5n1f1y9qkngwlrd4vyfs5x/T/rust_mozprofile.Hj21v80Enzfq"
+1574102660186	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574102660186	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574102660186	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574102660186	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574102661686	Marionette	INFO	Listening on port 57040
+1574102661754	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: mage/smart-keyboard-handler
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: mage/mage
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: mage/ie-class-fixer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: Amasty_Customform/js/form-render
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/modal/modal
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/extender/bound-nodes
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/bootstrap
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: mage/apply/scripts
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: knockoutjs/knockout-es5
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/extender/observable_array
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Ui/js/lib/knockout/template/engine
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://staging.zagg.com/static/version1574094345/frontend/zagg/master/en_US/requirejs/require.js, line 166: Error: Script error for: knockoutjs/knockout
+http://requirejs.org/docs/errors.html#scripterror
+1574102677039	Marionette	INFO	Stopped listening on port 57040
